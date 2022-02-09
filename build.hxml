@@ -1,0 +1,7 @@
+-cp src
+-cp test
+-D analyzer-optimize
+-lib react-next
+-lib react-native
+-main TestWebView
+-js bin/test.js

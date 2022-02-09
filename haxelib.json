@@ -1,0 +1,19 @@
+{
+    "name": "react-native-webview",
+    "license": "MIT",
+    "tags": [
+      "react",
+      "native",
+      "webview"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "varadig"
+    ],
+    "releasenote": "Initial release",
+    "version": "0.0.1",
+    "url": "https://github.com/DevInFlow/react-native-webview",
+    "dependencies": {
+      "react-native": "git::https://github.com/DevInFlow/react-native"
+  }
+  }
